@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying 
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning computer science
 - 😄 Pronouns: he/him/his
 
 <div align="center">

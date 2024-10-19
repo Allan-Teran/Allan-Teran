@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying Java and MySQL
+- 🔭 I’m currently studying React.js, React Native and Front-End
 - 🌱 I’m currently learning computer science
 - 😄 Pronouns: he/him/his
 
